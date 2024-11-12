@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bouncing soccer ball2
+* source:	https://sketchfab.com/3d-models/bouncing-soccer-ball2-c08cfdbaf515464a8c1cc05b3ce8934d
+* author:	rk8359041 (https://sketchfab.com/rk8359041)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bouncing soccer ball2" (https://sketchfab.com/3d-models/bouncing-soccer-ball2-c08cfdbaf515464a8c1cc05b3ce8934d) by rk8359041 (https://sketchfab.com/rk8359041) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
